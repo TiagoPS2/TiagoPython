@@ -1,0 +1,3 @@
+-r requesitos.txt
+ipython
+django-extensions
